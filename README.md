@@ -40,4 +40,4 @@ The following tools were used in the construction of the project:
 Developed by <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank">Giovanna Marques Freire Barbosa</a>
 
 <h2 id=licence>:lock: Licence</h2>
-<a href="https://www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307/" target="_blank">MIT</a>
+<a href="LICENSE.txt" target="_blank">MIT</a>

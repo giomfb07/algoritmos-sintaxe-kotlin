@@ -1,4 +1,4 @@
-<h1 align="center">Unit Testing Course with Kotlin</h1>
+<h1 align="center">Unit Testing Course with C#</h1>
 <h3 align="center">
 <a href="https://www.youtube.com/playlist?list=PLWNaqtzH6CWRUd0iIEJotRrpwtXXnFROE" target="_blank">Unit Testing Course with C# - ProgrAmada Mente channel</a>
 </h3>

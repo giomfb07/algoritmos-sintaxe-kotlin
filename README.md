@@ -26,18 +26,18 @@ The goal is to improve Kotlin.<br>
 <h2 id=installation>:clipboard: Installation</h2>
 
 1. Clone the repo.
-2. Install Visual Studio.
+2. Install Visual Studio Code.
 
 <h2 id=technology>:toolbox: Technology</h2>
 
 The following tools were used in the construction of the project:
 
-- IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
+- IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio Code</a>
 - SDK: <a href="https://go.microsoft.com/fwlink/?linkid=2088631">Net FrameWork 4.8</a>
 
 <h2 id=author>:grin: Author</h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Giovanna Marques Freire Barbosa</a>
+Developed by <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank">Giovanna Marques Freire Barbosa</a>
 
 <h2 id=licence>:lock: Licence</h2>
 <a href="https://www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307/" target="_blank">MIT</a>
